@@ -1,0 +1,28 @@
+{
+  "quotes": [
+    {
+      "quotes": "Coward Dies many times before their death",
+      "author": "Unknown",
+      "likes": "42",
+      "id": 1
+    },
+    {
+      "quotes": "If there is will, There is a Way",
+      "author": "Swami Vivekanand",
+      "likes": "43",
+      "id": 2
+    },
+    {
+      "quotes": "Your smile can Make difference",
+      "author": "Unkwon",
+      "likes": "42",
+      "id": 3
+    },
+    {
+      "quotes": "All is Well",
+      "author": "Ranchod Das Chamad Das chanchadd",
+      "likes": "4",
+      "id": 4
+    }
+  ]
+}
